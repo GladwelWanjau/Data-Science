@@ -1,1 +1,4 @@
 # Data-Science
+This file is a python notebook which contains the analysis of a the MTN Case study administered by Moringa School for the Data Science Cohort 5 class.MTN is an emerging telecommunication company which has presence in 21 countries in frica and the Middle East.In this case the case study was on Cote d'Ivore where MTN is the second best telecommunication.My task was to help MTN realize what Cities had majority users so that they can upgrade their infrastructure so as to serve their customer better.
+Main Area of Evaluation: Use of Pandasand numpy to analyze data
+I started with importing the required data to the file,followed by preparing te data by merging similar documents,descriptive statics and finally analysis whereby I sorted the data to find out the cities that had the highest data usage. 
